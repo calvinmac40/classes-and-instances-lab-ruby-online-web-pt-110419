@@ -1,5 +1,5 @@
 class Dog 
-  def self.new 
-    fido = Dog.new
-  end
+  @fido = fido
+    @snoopy = snoopy
+    @lassie = lassie
 end
